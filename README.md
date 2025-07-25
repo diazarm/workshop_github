@@ -1,4 +1,4 @@
-# Landing GitHub Workshop
+gi# Landing GitHub Workshop
 
 Este proyecto es una landing page diseñada para el Workshop 24/7 sobre GitHub. El objetivo es proporcionar información clara y atractiva sobre el evento, sus beneficios y cómo participar.
 
